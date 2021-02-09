@@ -1,0 +1,12 @@
+.user-panel img {
+    height: auto;
+    width: 6rem;
+}
+
+.info {
+    position: absolute;
+    left: 70%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
